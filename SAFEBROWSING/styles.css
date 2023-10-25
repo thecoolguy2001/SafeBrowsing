@@ -1,0 +1,7 @@
+.blurred-word {
+  cursor: pointer;
+}
+
+.blur {
+  filter: blur(5px);
+}
